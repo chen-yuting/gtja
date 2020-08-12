@@ -1,0 +1,22 @@
+09:17:25.343 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:17:26.490 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:17:26.494 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:17:26.731 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:17:27.385 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:17:27.663 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:17:27.677 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:17:27.678 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:17:28.568 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3222 ms
+09:17:28.715 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:17:29.597 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 881 ms
+09:20:28.519 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:20:29.672 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:20:29.677 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:20:29.918 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:20:30.590 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:20:30.868 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:20:30.882 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:20:30.883 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:20:31.770 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3247 ms
+09:20:31.912 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:20:32.802 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 889 ms

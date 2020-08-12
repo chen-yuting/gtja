@@ -1,0 +1,128 @@
+/**/
+.main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#header {
+  width: 100%;
+  position: relative;
+  height: 42px;
+  padding: 10px;
+  background: #28B9A4;
+}
+
+#header a {
+  display: block;
+  color: #515151;
+  cursor: pointer;
+}
+
+#header .btn-back {
+  position: absolute;
+  width: 72px;
+  font-size: 14px;
+  background: url("../imgs/back.png") no-repeat left center;
+  background-size: auto 100%;
+  padding-left: 32px;
+  color: #fff;
+}
+
+#header .title {
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  line-height: 22px;
+}
+
+
+/******/
+/******/
+.content-info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  padding: 32px 16px 16px 16px;
+}
+
+.content-info .name {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #333;
+  letter-spacing: 3px;
+}
+
+.content-info .sex {
+  font-size: 18px;
+  color: #515151;
+}
+
+.content-info .avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: absolute;
+  right: 32px;
+
+}
+
+.content-info .avatar img {
+  height: inherit;
+  width: auto;
+}
+/*******/
+.title-wrap{
+  padding: 16px;
+}
+.title-wrap>h2{
+  color:#111;
+  font-size: 18px;
+}
+.title-wrap>p{
+  color:#333;
+  font-size: 12px;
+  padding-top: 8px;
+}
+table{
+  margin: 16px;
+  border-collapse: collapse;
+  width: calc(100% - 32px);
+}
+table tr{
+
+}
+table tr>td{
+  text-align: center;
+  padding: 10px 8px;
+  border: 1px solid #ccc;
+}
+table tr td:first-child,
+table tr td:nth-child(3){
+  font-weight: bolder;
+  color: #515151;
+}
+table tr td:nth-child(2),
+table tr td:nth-child(4){
+  color: #777;
+}
+
+/*******/
+.evaluate-wrap{
+  padding: 16px;
+}
+.evaluate-wrap>h2{
+  color: #006b5b;
+  font-size: 18px;
+  padding-bottom: 8px;
+}
+.evaluate-wrap>textarea{
+  width: calc(100% - 32px);
+  border-radius: 8px;
+  font-size: 16px;
+  color: #515151;
+  border-color: #006b5b;
+  padding: 8px;
+  text-align: left;
+}

@@ -1,0 +1,7 @@
+mgr\web\commons\Result.class
+mgr\web\action\LoginAction.class
+mgr\web\commons\LoginInterceptor.class
+mgr\web\action\school\StudentAction.class
+mgr\web\action\sys\UserAction.class
+mgr\web\action\sys\RoleAction.class
+mgr\web\commons\BaseAction.class

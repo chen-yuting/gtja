@@ -1,0 +1,282 @@
+09:27:58.805 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:28:00.682 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:28:00.690 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:28:01.108 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:28:02.354 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:28:02.985 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:28:03.003 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:28:03.005 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+09:28:03.005 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:28:05.477 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 6667 ms
+09:28:05.873 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:28:07.639 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1766 ms
+09:28:16.263 [INFO ] [qtp705265015-19] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+09:28:16.821 [INFO ] [qtp705265015-19] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 09:28:16 CST 2019
+09:35:28.203 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:35:29.566 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:35:29.572 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:35:29.899 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:35:30.474 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:35:30.762 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:35:30.773 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:35:30.773 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+09:35:30.773 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:35:31.790 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3582 ms
+09:35:31.933 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:35:33.475 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1542 ms
+09:36:13.611 [INFO ] [qtp705265015-15] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+09:36:13.879 [INFO ] [qtp705265015-15] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 09:36:13 CST 2019
+09:41:32.009 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:41:33.121 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:41:33.125 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:41:33.409 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:41:34.230 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:41:34.692 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:41:34.711 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:41:34.711 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+09:41:34.712 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:41:36.340 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4326 ms
+09:41:36.463 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:41:37.890 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1427 ms
+09:42:08.400 [INFO ] [qtp705265015-15] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+09:42:08.714 [INFO ] [qtp705265015-15] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 09:42:08 CST 2019
+09:50:31.484 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+09:50:32.672 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+09:50:32.677 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+09:50:32.947 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+09:50:33.415 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+09:50:33.678 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+09:50:33.690 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+09:50:33.690 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+09:50:33.690 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+09:50:34.685 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3198 ms
+09:50:34.791 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+09:50:36.444 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1652 ms
+09:50:54.759 [INFO ] [qtp705265015-19] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+09:50:54.984 [INFO ] [qtp705265015-19] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 09:50:54 CST 2019
+10:20:00.652 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+10:20:02.475 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+10:20:02.481 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+10:20:02.755 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+10:20:03.642 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:20:04.091 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+10:20:04.109 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+10:20:04.110 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+10:20:04.111 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+10:20:05.730 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 5066 ms
+10:20:05.918 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+10:20:06.982 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1064 ms
+10:20:53.400 [INFO ] [qtp263495647-18] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+10:20:53.662 [INFO ] [qtp263495647-18] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 10:20:53 CST 2019
+10:24:47.892 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+10:24:49.446 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+10:24:49.453 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+10:24:49.743 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+10:24:50.577 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:24:50.993 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+10:24:51.010 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+10:24:51.011 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+10:24:51.011 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+10:24:52.671 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4773 ms
+10:24:52.862 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+10:24:54.181 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1319 ms
+10:25:04.667 [INFO ] [qtp1025566069-15] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+10:25:04.967 [INFO ] [qtp1025566069-15] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 10:25:04 CST 2019
+10:35:34.045 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+10:35:35.665 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+10:35:35.672 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+10:35:36.042 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+10:35:37.055 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:35:37.464 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+10:35:37.481 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+10:35:37.482 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+10:35:37.482 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+10:35:39.088 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 5038 ms
+10:35:39.285 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+10:35:40.234 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 949 ms
+10:35:44.814 [INFO ] [qtp844264574-16] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+10:35:45.088 [INFO ] [qtp844264574-16] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 10:35:45 CST 2019
+10:37:56.545 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+10:37:57.612 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+10:37:57.615 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+10:37:57.866 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+10:37:58.487 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:37:58.861 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+10:37:58.878 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+10:37:58.879 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+10:37:58.880 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+10:38:00.328 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3777 ms
+10:38:00.463 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+10:38:01.559 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1095 ms
+10:38:07.314 [INFO ] [qtp844264574-14] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+10:38:07.651 [INFO ] [qtp844264574-14] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 10:38:07 CST 2019
+10:40:29.981 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+10:40:30.950 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+10:40:30.953 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+10:40:31.193 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+10:40:31.657 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+10:40:31.946 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+10:40:31.956 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+10:40:31.957 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+10:40:31.957 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+10:40:32.933 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 2949 ms
+10:40:33.061 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+10:40:33.912 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 850 ms
+10:40:39.631 [INFO ] [qtp844264574-18] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+10:40:40.226 [INFO ] [qtp844264574-18] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 10:40:40 CST 2019
+10:42:09.629 [WARN ] [qtp844264574-32] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'age': rejected value [5a]; codes [typeMismatch.student.age,typeMismatch.age,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.age,age]; arguments []; default message [age]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'age'; nested exception is java.lang.NumberFormatException: For input string: "5a"]]
+11:20:08.592 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:20:09.998 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:20:10.006 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:20:10.360 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:20:11.162 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:20:11.603 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:20:11.616 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:20:11.617 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:20:11.617 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:20:12.930 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4332 ms
+11:20:13.130 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:20:14.452 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1322 ms
+11:20:20.659 [INFO ] [qtp1244560331-21] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:20:20.931 [INFO ] [qtp1244560331-21] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:20:20 CST 2019
+11:22:04.653 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:22:06.325 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:22:06.331 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:22:06.638 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:22:07.260 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:22:07.592 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:22:07.607 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:22:07.608 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:22:07.608 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:22:08.785 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4127 ms
+11:22:08.907 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:22:10.123 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1215 ms
+11:22:20.453 [INFO ] [qtp1244560331-30] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:22:20.679 [INFO ] [qtp1244560331-30] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:22:20 CST 2019
+11:25:02.964 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:25:04.206 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:25:04.211 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:25:04.507 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:25:05.220 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:25:05.565 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:25:05.584 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:25:05.594 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:25:05.595 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:25:07.176 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4208 ms
+11:25:07.449 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:25:08.864 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1415 ms
+11:25:15.269 [INFO ] [qtp645717550-18] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:25:15.747 [INFO ] [qtp645717550-18] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:25:15 CST 2019
+11:26:09.478 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:26:11.268 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:26:11.274 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:26:11.512 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:26:11.990 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:26:12.281 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:26:12.293 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:26:12.294 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:26:12.294 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:26:13.248 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3765 ms
+11:26:13.384 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:26:14.259 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 874 ms
+11:26:18.880 [INFO ] [qtp645717550-22] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:26:19.095 [INFO ] [qtp645717550-22] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:26:19 CST 2019
+11:28:06.210 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:28:07.337 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:28:07.342 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:28:07.601 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:28:08.168 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:28:08.530 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:28:08.545 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:28:08.546 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:28:08.547 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:28:09.893 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 3680 ms
+11:28:09.988 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:28:10.961 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 973 ms
+11:28:15.757 [INFO ] [qtp645717550-17] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:28:16.047 [INFO ] [qtp645717550-17] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:28:16 CST 2019
+11:29:29.893 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:29:31.103 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:29:31.109 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:29:31.452 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:29:32.123 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:29:32.530 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:29:32.548 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:29:32.549 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:29:32.550 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:29:33.998 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4101 ms
+11:29:34.131 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:29:35.188 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1057 ms
+11:29:44.516 [INFO ] [qtp645717550-24] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:29:44.825 [INFO ] [qtp645717550-24] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:29:44 CST 2019
+11:44:38.152 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+11:44:39.991 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+11:44:39.999 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+11:44:40.312 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+11:44:40.870 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+11:44:41.160 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+11:44:41.170 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+11:44:41.171 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+11:44:41.171 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+11:44:43.194 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 5038 ms
+11:44:43.333 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+11:44:44.351 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1017 ms
+11:44:50.525 [INFO ] [qtp645717550-17] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+11:44:50.776 [INFO ] [qtp645717550-17] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 11:44:50 CST 2019
+14:14:36.908 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+14:14:38.206 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+14:14:38.215 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+14:14:38.464 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+14:14:39.273 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+14:14:39.583 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+14:14:39.594 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+14:14:39.595 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+14:14:39.595 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+14:14:41.118 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4206 ms
+14:14:41.350 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+14:14:42.630 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1280 ms
+14:15:04.251 [INFO ] [qtp726374052-18] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+14:15:04.573 [INFO ] [qtp726374052-18] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 14:15:04 CST 2019
+14:17:00.682 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+14:17:01.825 [INFO ] [Console scanner] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+14:17:01.828 [INFO ] [Console scanner] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+14:17:02.039 [INFO ] [Console scanner] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+14:17:02.935 [INFO ] [Console scanner] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+14:17:03.424 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+14:17:03.443 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+14:17:03.444 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+14:17:03.445 [INFO ] [Console scanner] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+14:17:05.070 [INFO ] [Console scanner] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4384 ms
+14:17:05.229 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+14:17:06.291 [INFO ] [Console scanner] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1062 ms
+14:17:11.511 [INFO ] [qtp726374052-15] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+14:17:12.104 [INFO ] [qtp726374052-15] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 14:17:12 CST 2019
+14:59:18.812 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+14:59:20.647 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+14:59:20.651 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+14:59:20.898 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+14:59:21.680 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+14:59:21.990 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+14:59:22.000 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+14:59:22.000 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+14:59:22.001 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+14:59:23.559 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 4733 ms
+14:59:23.740 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+14:59:24.836 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1096 ms
+14:59:37.748 [INFO ] [qtp182254297-18] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+14:59:38.116 [INFO ] [qtp182254297-18] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 14:59:38 CST 2019
+15:01:50.697 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+15:01:52.392 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+15:01:52.397 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+15:01:52.667 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+15:01:53.736 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:01:54.306 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+15:01:54.331 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+15:01:54.332 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+15:01:54.333 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+15:01:55.735 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 5032 ms
+15:01:55.927 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+15:01:57.215 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1287 ms
+15:02:09.855 [INFO ] [qtp908435478-20] [mgr.web.action.LoginAction] 用户[admin]登录,登录密码为[admin]。
+15:02:10.117 [INFO ] [qtp908435478-20] [mgr.web.action.LoginAction] 用户[admin]登录成功，登录时间：Sun Sep 29 15:02:10 CST 2019

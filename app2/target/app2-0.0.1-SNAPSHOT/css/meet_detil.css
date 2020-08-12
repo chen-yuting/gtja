@@ -1,0 +1,102 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+    font-size: 25px;
+   
+   overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.header-wrap{
+	
+	 font-size: 23px;
+     color: #FFFDEF;
+	
+}
+
+.row img{
+	width: 60px;
+	height: 55px;
+	
+}
+
+
+.header-wrap  .header-left{
+	margin-left: -10px;
+	padding-right: auto;
+	margin-top:4% ;
+	
+}
+.header-wrap  .header-right{
+   margin-left: -30px;
+	margin-top:8% ;
+}
+#header-up{
+	margin-top: -16px;
+}
+
+
+
+.header-left{
+	 margin-left:-18px;
+}
+
+.header-right{
+  padding-top: -15px;
+	
+}
+.header-wrap  .header-right >span{
+	
+	font-size: 23px;
+	font-weight:bolder;
+   margin-left:5% ;
+}
+
+.header-wrap .title-down{
+	margin-top: 10px;
+   font-weight: bolder;
+	margin-left: 20%;
+	font-size: 19px;
+}
+
+.content-wrap{
+	margin-top: 10px;
+	background: white;
+}
+
+.content-wrap .table{
+	text-align: center;
+	margin: 5px;
+	
+	background: white;
+	font-size: 18px;
+	
+}
+
+.conte_com >td font{
+text-align: center;
+ 
+ 
+ word-break:keep-all;
+ white-space:nowrap;
+ overflow:hidden;
+ text-overflow:ellipsis;
+
+}
+/*查看详情*/
+.refer{
+	border-radius: 40px;
+	border: solid 1px #CCC;
+	background:#FFFFFF;
+	color: #000;
+	font-size: 15px;
+	transform: none;
+   outline: none;
+}
+

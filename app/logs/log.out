@@ -1,0 +1,20 @@
+15:41:58.128 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext: initialization started
+15:41:59.887 [INFO ] [main] [org.hibernate.Version] HHH000412: Hibernate Core {5.3.10.Final}
+15:41:59.895 [INFO ] [main] [org.hibernate.cfg.Environment] HHH000206: hibernate.properties not found
+15:42:00.213 [INFO ] [main] [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+15:42:01.231 [INFO ] [main] [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+15:42:01.549 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_CUSTOMER_DATA]
+15:42:01.562 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_USER]
+15:42:01.562 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_STUDENT]
+15:42:01.563 [INFO ] [main] [org.hibernate.id.enhanced.TableGenerator] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [T_ROLE]
+15:42:03.366 [INFO ] [main] [org.springframework.web.context.ContextLoader] Root WebApplicationContext initialized in 5217 ms
+15:42:03.587 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'mvc'
+15:42:04.872 [INFO ] [main] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1284 ms
+15:42:25.066 [INFO ] [qtp1759328722-14] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录,登录密码为[admin]。
+15:42:25.290 [INFO ] [qtp1759328722-14] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录成功，登录时间：Fri Jan 10 15:42:25 CST 2020
+15:42:36.405 [INFO ] [qtp1759328722-13] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录,登录密码为[admin]。
+15:42:36.413 [INFO ] [qtp1759328722-13] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录成功，登录时间：Fri Jan 10 15:42:36 CST 2020
+15:42:40.028 [INFO ] [qtp1759328722-13] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录,登录密码为[admin]。
+15:42:40.043 [INFO ] [qtp1759328722-13] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录成功，登录时间：Fri Jan 10 15:42:40 CST 2020
+15:42:44.536 [INFO ] [qtp1759328722-20] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录,登录密码为[admin]。
+15:42:44.548 [INFO ] [qtp1759328722-20] [newland.gtja.web.action.login.LoginAction] 用户[admin]登录成功，登录时间：Fri Jan 10 15:42:44 CST 2020

@@ -1,0 +1,5 @@
+newland\gtja\web\action\user\UserAction.class
+newland\gtja\web\util\ExtractedPage.class
+newland\gtja\web\action\manager\JsonResult.class
+newland\gtja\web\interceptor\LoginInterceptor.class
+newland\gtja\web\action\login\LoginAction.class

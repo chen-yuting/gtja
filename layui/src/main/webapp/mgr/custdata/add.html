@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>添加客群数据</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="../../layuiadmin/layui/css/layui.css" media="all">
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div class="layui-form" lay-filter="layuiadmin-form-useradmin" id="layuiadmin-form-useradmin"
+        style="padding: 20px 0 0 0;">
+        <div class="layui-form-item">
+            <label class="layui-form-label">*客户姓名</label>
+            <div class="layui-input-inline">
+                <input type="text" name="customerName" id="customerName" lay-verify="required" placeholder="请输入客户姓名"
+                    autocomplete="off" class="layui-input">
+            </div>
+            <label class="layui-form-label">*营业部</label>
+            <div class="layui-input-inline">
+                <input name="businessDepartment" id="businessDepartment" type="text" lay-verify="required" placeholder="请输入营业部"
+                    class="layui-input">
+            </div>
+            <label class="layui-form-label">*资金账号</label>
+            <div class="layui-input-inline">
+                <input name="capitalAccount" id="capitalAccount" type="text" lay-verify="required" placeholder="请输入资金账号"
+                    class="layui-input" onblur="checkCapitalAccount()">
+            </div>
+             <label class="layui-form-label DIV" style="color: red; display: none" name="tishi" id="tishi">账号已存在</label>
+        </div>
+        
+        <div class="layui-form-item">
+            <label class="layui-form-label DIV">性别</label>
+            <div class="layui-input-inline">
+                <select name="gender" id="gender">
+                    <option value="">请选择</option>
+                    <option value="男">男</option>
+                    <option value="女">女</option>
+                </select>
+            </div>
+            <label class="layui-form-label DIV">出生年份</label>
+            <div class="layui-input-inline">
+                <input name="yearOfBirth" id="yearOfBirth" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">职业</label>
+            <div class="layui-input-inline">
+                <input name="occupation" id="occupation" type="text" class="layui-input">
+            </div>
+          </div>
+            
+          <div class="layui-form-item">
+            <label class="layui-form-label DIV">开户时间</label>
+            <div class="layui-input-inline">
+                <input name="accountOpeningDate" id="accountOpeningDate" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">司内资产</label>
+            <div class="layui-input-inline">
+                <input name="internalAssets" id="internalAssets" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">司外资产</label>
+            <div class="layui-input-inline">
+                <input name="extradivisionalAssets" id="extradivisionalAssets" type="text" class="layui-input">
+            </div>
+          </div>
+            
+          <div class="layui-form-item">
+            <label class="layui-form-label DIV">司内资产类别</label>
+            <div class="layui-input-inline">
+                <input name="internalAssetsType" id="internalAssetsType" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">用户画像</label>
+            <div class="layui-input-inline">
+                <input name="userProtrait" id="userProtrait" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">投资偏好</label>
+            <div class="layui-input-inline">
+                <input name="investmentPreference" id="investmentPreference" type="text" class="layui-input">
+            </div>
+         </div>
+            
+         <div class="layui-form-item">
+            <label class="layui-form-label DIV">流动性要求</label>
+            <div class="layui-input-inline">
+                <input name="liquidityRequirements" id="liquidityRequirements" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">外部资源</label>
+            <div class="layui-input-inline">
+                <input name="externalResources" id="externalResources" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">其他备注</label>
+            <div class="layui-input-inline">
+                <input name="otherRemarks" id="otherRemarks" type="text" class="layui-input">
+            </div>
+          </div>
+            
+          <div class="layui-form-item">
+            <label class="layui-form-label DIV">子女情况</label>
+            <div class="layui-input-inline">
+                <input name="childrenSituation" id="childrenSituation" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">子女年龄</label>
+            <div class="layui-input-inline">
+                <input name="childrenAge" id="childrenAge" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">前次营销内容</label>
+            <div class="layui-input-inline">
+                <input name="previousMarketingContent" id="previousMarketingContent" type="text" class="layui-input">
+            </div>
+          </div>
+            
+          <div class="layui-form-item">
+            <label class="layui-form-label DIV">前次营销时间</label>
+            <div class="layui-input-inline">
+                <input name="previousMarketingDate" id="previousMarketingDate" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">客户反馈及需求</label>
+            <div class="layui-input-inline">
+                <input name="customerFeedback" id="customerFeedback" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">下次营销目标</label>
+            <div class="layui-input-inline">
+                <input name="nextMarketingTarget" id="nextMarketingTarget" type="text" class="layui-input">
+            </div>
+          </div>
+            
+          <div class="layui-form-item">
+            <label class="layui-form-label DIV">下次营销时间</label>
+            <div class="layui-input-inline">
+                <input name="nextMarketingDate" id="nextMarketingDate" type="text" class="layui-input">
+            </div>
+            <label class="layui-form-label DIV">营销内容</label>
+            <div class="layui-input-inline">
+                <input name="marketingContent" id="marketingContent" type="text" class="layui-input">
+            </div>
+            
+        </div>
+        
+
+        <div class="layui-form-item layui-hide">
+            <input type="button" lay-submit lay-filter="LAY-customerData-back-submit" id="LAY-customerData-back-submit" value="确认">
+        </div>
+    </div>
+
+    <script src="../../layuiadmin/layui/layui.js"></script>
+    <script>
+    
+      	layui.config({
+        	base: '../../layuiadmin/' //静态资源所在路径
+      	}).extend({
+        	index: 'lib/index' //主入口模块
+      	}).use(['index', 'laydate'], function(){
+        	var laydate = layui.laydate;
+       
+        	laydate.render({
+          		elem: '#accountOpeningDate',
+          		trigger: 'click'
+        	});
+        	laydate.render({
+          		elem: '#previousMarketingDate',
+          		trigger: 'click'
+        	});
+        	laydate.render({
+          		elem: '#nextMarketingDate',
+          		trigger: 'click'
+        	});
+      	});
+      
+      
+        layui.config({
+            base: '../../layuiadmin/' //静态资源所在路径
+        }).extend({
+            index: 'lib/index' //主入口模块
+        }).use(['index', 'form'], function () {
+            var $ = layui.$
+                , form = layui.form;
+        })
+        function checkCapitalAccount() {
+
+            $.ajax({
+                url: 'check_capitalAccount.ajax',
+                type: 'post',
+                dataType: "json",
+                data: {
+                	capitalAccount: $('#capitalAccount').val()
+                },
+                success: function (res) {
+
+                    if (res.code == 1) {
+                        $('#tishi').css("display", "none");
+                        return true;
+                    } else if (res.code == 0) {
+
+                        $('#tishi').css("display", "block");
+                        return false;
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

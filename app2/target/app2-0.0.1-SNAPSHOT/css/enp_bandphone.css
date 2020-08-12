@@ -1,0 +1,203 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+
+body{
+	background: #E8EBF2;
+	font-size: 50px;
+	position: relative;
+}
+
+
+.containe{
+	
+	font-weight: bold;
+
+	
+}
+.header-wrap{
+	
+	background:#3089FD ;
+	 
+     font-size: 42%;
+     color: white;
+	
+}
+.header-wrap  .header-left{
+	padding-right: 8px;
+	margin-top:4% ;
+	
+}
+.header-wrap  .header-right{
+	margin-top:7% ;
+}
+
+.header-wrap  .header-right >span{
+	padding: 15px;
+}
+
+.header-wrap .header-down .col-md-3{
+	 margin-bottom: 9px;
+	
+}
+.header-wrap .header-down .img-circle{
+	margin-left: 35%;
+	width: 60px;
+	height: 60px;
+	border: 2px solid #FFFBF0;
+	border-radius: 50px ;
+}
+.header-wrap  .header-down{
+	margin-top: 10px;
+	font-size: 50px;
+     color: #FFFDEF;
+   
+	
+}
+.header-wrap .row-right{
+	margin-top: 12px;
+	margin-right: 5%;
+	
+}
+
+.header-wrap .row-right .up{
+	font-size: 20px;
+	color: #FCFAFC;
+}
+
+
+
+.header-wrap .row-right .down{
+	font-size: 31%;
+	color: #B9CAF4;
+}
+
+
+.content-wrap{
+	margin-top: 5%;
+	background: #FFFFFF;
+	width: auto;
+	height: auto;
+	margin-bottom: 0px;
+	margin-left: 3px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	 background: #FFFFFF;
+	font-size: 20px;
+	color: #000000;
+}
+.content-wrap .phone-input >input{
+	
+	padding-left: 8px;
+	font-size: 80%;
+	width:auto;
+	height: 40px;
+		border: none;
+	outline: none;
+	
+}
+
+.tit{
+	
+	
+	
+}
+
+
+.content-wrap >hr{
+ margin: 10px;
+	width: 500px;
+	
+}
+
+.content-wrap .phone-input{
+	width: auto;
+}
+
+.content-wrap .phone-input >button{
+	width: auto;
+	position: absolute;
+	  top: 71%;
+	  left: 62%;
+	  border:0px;
+	   background-color:transparent;
+     color:#1279FF; 
+	   border: none;
+	   outline: none;
+	
+	
+}
+
+#click{
+	width: auto;
+	position: absolute;
+	  top: 71%;
+	  left: 62%;
+	color:#1279FF; 
+	font-size:99%;
+}
+
+#contenes{
+  position: absolute;
+  margin-left: 10px;
+ margin-top: 5px;
+	font-size: 30%;
+	color: red;
+	
+	
+}
+
+#kerpcontext{
+  position: absolute;
+  margin-left: 10px;
+ margin-top: 5px;
+	font-size: 30%;
+	color: red;
+	
+	
+}
+
+#submit{
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 5px;
+	font-size: 30%;
+	color: red;
+}
+#checkimg{
+position: absolute;
+  margin-left: 10px;
+ margin-top: 5px;
+	font-size: 30%;
+	color: red;
+	
+	
+}
+
+
+#num{
+	padding-left: -15px;
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+#phoneNum{
+	padding-left: -15px;
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+
+.button-wrap{
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+.button-wrap button{
+	background: #2F8AFF;
+		width: 95%;
+	border-radius: 50px;
+	
+}

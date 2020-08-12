@@ -1,0 +1,157 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+ 
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+    font-size: 25px;       
+
+}
+
+.header-wrap{
+	
+	 font-size: 23px;
+     color: #FFFDEF;
+	
+}
+
+.row img{
+	width: 60px;
+	height: 55px;
+}
+
+
+.header-wrap  .header-left{
+	margin-left: -30px;
+	padding-right: auto;
+	margin-top:6% ;
+	
+}
+.header-wrap  .header-right{
+   margin-left: -50px;
+	margin-top:9% ;
+}
+#header-up{
+	margin-top: -15px;
+}
+
+
+
+.header-left{
+	 margin-left:-18px;
+}
+
+.header-right{
+  padding-top: -15px;
+	
+}
+.header-wrap  .header-right >span{
+	
+	font-size: 23px;
+	font-weight:bolder;
+   margin-left:5% ;
+}
+
+/**/
+#inputWrap {
+	margin-top: 25px;
+position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 10px;
+  margin-bottom: 40px;
+  
+ 
+}
+
+#inputWrap .search,.input-wrap{
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+
+#inputWrap .search {
+position: absolute;
+  top: 0.5%;
+  right:7%;
+	width: 20px;
+  height: 20px;
+  background-size: 100% 100%;
+  background-image: url("../imgs/search.png");
+  border:0px;
+  background-color:transparent;
+ }
+
+#inputWrap .input-wrap {
+	margin-left: 0%;
+  width: calc(100% - 135px);
+  height: calc(100% - 6px);
+}
+
+#inputWrap .input-wrap input {
+	
+	text-align: center;
+	margin-bottom: 5px;
+  border: 1px solid #ddd;
+  outline: none;
+  display: block;
+  width:100% ;
+  height: 25px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #515151;
+  background: white;
+  padding: 8px;
+  border-radius: 50px;
+}
+
+.context-wrap{
+ 
+  top: 13px;
+  width: auto;
+  background: white;
+  margin: 2px;
+}
+
+.context-wrap .hr{
+	margin: 10px;
+	
+}
+.row:after{
+	clear: both;
+	display: block;
+	content: '';
+	
+}
+
+.context-wrap .title{
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+
+.context-wrap .context{
+	margin-left: 5px;
+	font-size: 50px;
+}
+
+.context-wrap .context a{
+	text-decoration: none;
+}
+
+
+.row{
+	text-align: center;
+}
+.col{
+	font-size: 18px;
+	float: left;
+	width:25%;
+}

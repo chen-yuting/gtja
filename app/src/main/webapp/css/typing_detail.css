@@ -1,0 +1,102 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+ 
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+  
+}
+
+.header-wrap{
+	color: white;
+	font-weight: bold;
+	font-size: 23px;
+	align-items: center;
+	
+}
+
+.header-wrap .header-right  {
+	padding-top: 20px;
+	padding-left: 30%;
+	
+	
+	
+}
+.header-left{
+	float: left;
+}
+.header-wrap .title-down{
+	margin-top: 10px;
+   font-weight: bolder;
+	margin-left: 20%;
+	font-size: 19px;
+}
+
+
+
+
+
+#clear{
+	clear: both;
+}
+
+.context-wrap{
+ 
+  
+  width: auto;
+  background: white;
+  margin: 2px;
+}
+
+
+.context-wrap .hr{
+	margin: 10px;
+	
+}
+.row:after{
+	clear: both;
+	display: block;
+	content: '';
+	
+}
+
+.context-wrap .title{
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+
+.context-wrap .context{
+	margin-left: 5px;
+	font-size: 50px;
+}
+
+.context-wrap .context a{
+	text-decoration: none;
+}
+
+
+.row{
+	text-align: center;
+}
+.col{
+	font-size: 18px;
+	float: left;
+	width:20%;
+}
+
+/*查看详情*/
+.refer{
+	border-radius: 40px;
+	border: solid 1px #CCC;
+	background:#FFFFFF;
+	color: #000;
+	font-size: 15px;
+	transform: none;
+   outline: none;
+}
+

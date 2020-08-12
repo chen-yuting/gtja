@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration
+	xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<!-- 控制台日志，开发阶段使用 -->
+	<appender name="CONSOLE"
+		class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d{yy-MM-dd HH:mm:ss} [%x] %t  [%-5p](%F,%L) - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- 错误日志，输出到文件 -->
+	<appender name="errorlog"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="logs/error.log" />
+		<param name="maxBackupIndex" value="100" />
+		<param name="maxFileSize" value="20MB" />
+		<param name="Threshold" value="error" />
+		<param name="Encoding" value="GBK" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d  [%x] %t  [%-5p](%F,%L) - %m%n" />
+		</layout>
+	</appender>
+	<!-- debug日志，输出到文件 -->
+	<appender name="transferlog"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="logs/transfer.log" />
+		<param name="maxBackupIndex" value="100" />
+		<param name="maxFileSize" value="20MB" />
+		<param name="Threshold" value="debug" />
+		<param name="Encoding" value="GBK" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d  [%x] %t  [%-5p](%F,%L) - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- 注意： level属性也可以直接写在logger上，如： -->
+	<logger name="newland.sdms" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="transferlog" />
+		<appender-ref ref="errorlog" />
+	</logger>
+	<root>
+		<level value="warn" />
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="transferlog" />
+		<appender-ref ref="errorlog" />
+	</root>
+
+</log4j:configuration>

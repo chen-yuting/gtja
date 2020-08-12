@@ -1,0 +1,197 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+    font-size: 25px;       
+
+}
+
+.header-wrap{
+	
+	 font-size: 23px;
+     color: #FFFDEF;
+	
+}
+
+.row img{
+	width: 60px;
+	height: 55px;
+}
+
+
+.header-wrap  .header-left{
+	margin-left: -30px;
+	padding-right: auto;
+	margin-top:4% ;
+	
+}
+.header-wrap  .header-right{
+   margin-left: -50px;
+	margin-top:7% ;
+}
+#header-up{
+	margin-top: -15px;
+}
+
+
+
+.header-left{
+	 margin-left:-18px;
+}
+
+.header-right{
+  padding-top: -15px;
+	
+}
+.header-wrap  .header-right >span{
+	
+	font-size: 23px;
+	font-weight:bolder;
+   margin-left:18% ;
+}
+
+
+
+.header-wrap .header-down{
+
+	text-align: center;
+		border-radius: 20px ;
+	margin: 20px;
+	margin-top: 35px;
+	background-color: white;
+	width: auto ;
+	height:150px;
+	color: #000000;
+	font-size: 25px;
+}
+
+.header-wrap .header-down img{
+	margin-top: -25px;
+	width: 60px;
+	height: 60px;
+	border: 2px solid #FFFBF0;
+	border-radius: 50px ;
+	
+	
+}
+
+.header-wrap .header-down .name{
+	font-size: 70%;
+}
+
+
+.header-wrap .header-down .conte{
+	border-collapse:inherit;
+ border-spacing:0px  10px;
+  font-size:60% ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+ }
+.detil{
+
+	
+	
+}
+
+.detil span{
+	
+	
+	float: right;
+ display:block;
+ width: 160px;
+ word-break:keep-all;
+ white-space:nowrap;
+ overflow:hidden;
+ text-overflow:ellipsis;
+	
+}
+
+
+
+
+
+.ui-loader-default{ display:none}
+.ui-mobile-viewport{ border:none;}
+.ui-page {padding: 0; margin: 0; outline: 0}
+
+
+/*context-wrap*/
+.context-wrap{
+	font-size: 25px;
+	
+}
+
+
+.context-wrap  .titles span{
+  color: white;
+  font-size:60%;
+	font-weight: bolder;
+	margin-left: 10px;
+}
+
+
+
+
+
+.context-wrap  .all{
+	background: white;
+	font-size: 25px;
+	
+}
+.context-wrap .hr{
+	margin: 5px;
+	
+}
+.row:after{
+	clear: both;
+	display: block;
+	content: '';
+	
+}
+
+.context-wrap .title{
+	font-size: 70%;
+	font-weight: bolder;
+}
+
+
+.context-wrap .context{
+	margin-left: 5px;
+	font-size:55%;
+ background: white;
+}
+
+.context-wrap .context a{
+	text-decoration: none;
+}
+
+.row{
+	text-align: center;
+}
+.col{
+	
+	
+display:block;
+ width: 160px;
+ word-break:keep-all;
+ white-space:nowrap;
+ overflow:hidden;
+ text-overflow:ellipsis;
+	
+	float: left;
+	width: 33.333333%;
+}
+
+
+#right .row .div1{
+	margin-left: 18%;
+	text-align: center;
+	
+}

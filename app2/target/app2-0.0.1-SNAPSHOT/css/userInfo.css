@@ -1,0 +1,104 @@
+/**/
+.main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#header {
+  width: 100%;
+  position: relative;
+  height: 42px;
+  padding: 10px;
+  background: #28B9A4;
+}
+
+#header a {
+  display: block;
+  color: #515151;
+  cursor: pointer;
+}
+
+#header .btn-back {
+  position: absolute;
+  width: 72px;
+  font-size: 14px;
+  background: url("../imgs/back.png") no-repeat left center;
+  background-size: auto 100%;
+  padding-left: 32px;
+  color: #fff;
+}
+
+#header .title {
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  line-height: 22px;
+}
+
+
+/******/
+/******/
+.content-info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  padding: 32px 16px 16px 16px;
+}
+
+.content-info .name {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #333;
+  letter-spacing: 3px;
+}
+
+.content-info .sex {
+  font-size: 18px;
+  color: #515151;
+}
+
+.content-info .avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: absolute;
+  right: 32px;
+
+}
+
+.content-info .avatar img {
+  height: inherit;
+  width: auto;
+}
+/*******/
+.corporation-info,
+.user-info{
+  padding: 16px;
+  width: 100%;
+}
+.corporation-info{
+  border-bottom: 1px solid #ccc;
+}
+.corporation-info>h2,
+.user-info>h2{
+  padding-bottom: 8px;
+  font-size: 20px;
+  color: #00695a;
+}
+.corporation-info>p,
+.user-info>p{
+  padding: 1px 8px;
+}
+.corporation-info>p.subtitle,
+.user-info>p.subtitle{
+  font-size: 14px;
+  color: #515151;
+}
+.corporation-info>p:not(.subtitle),
+.user-info>p:not(.subtitle){
+  color:#215049;
+  letter-spacing: 2px;
+  font-size: 17px;
+}

@@ -1,0 +1,144 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+
+
+
+body{
+   background: #E8EBF2;
+	 font-size: 50px;
+	 overflow-y: scroll;
+     overflow-x: hidden;
+}
+
+
+.containe{
+	
+	
+
+	
+}
+.header-wrap{
+	
+	background:#3089FD ;
+	
+     font-size: 42%;
+     color: white;
+    
+	
+}
+.header-wrap  .header-left{
+	padding-right: 5px;
+	margin-top:4% ;
+	
+}
+.header-wrap  .header-right{
+	margin-top:7% ;
+}
+
+.header-wrap  .header-right >span{
+		margin-left: -20px;
+}
+
+.header-wrap .header-down{
+	padding-bottom: 10px;
+	
+}
+.header-wrap .header-down .img-circle{
+	margin-left: 35%;
+	width: 60px;
+	height: 60px;
+	border: 2px solid #FFFBF0;
+	border-radius: 50px ;
+}
+.header-wrap  .header-down{
+	margin-top: 10px;
+	font-size: 18px;
+     color: #FFFDEF;
+	
+}
+.header-wrap .row-right{
+	margin-top: 12px;
+	margin-right: 10px;
+	
+}
+
+.header-wrap .row-right .up{
+	font-size: 20px;
+	color: #FCFAFC;
+}
+
+
+
+.header-wrap .row-right .down{
+	font-size: 16px;
+	color: #B9CAF4;
+}
+
+.content-wrap{
+	font-size: 40%;
+	
+	background: #FFFFFF;
+	width: auto;
+	height:180px;
+}
+
+.context-wrap{
+	background: #FFFFFF;
+	font-size: 38%;
+	
+	
+	
+}
+.detil span{
+	float: right;
+ display:block;
+ width: 180px;
+ word-break:keep-all;
+ white-space:nowrap;
+ overflow:hidden;
+ text-overflow:ellipsis;
+	
+}
+
+
+
+.context-wrap .desc{
+	margin-left:10%;
+	
+}
+
+
+
+
+
+
+
+
+.context-wrap .table tr{
+
+	
+}
+
+
+
+.context-wrap  .detil{
+	text-align: right;
+	
+	
+	
+}
+
+.context-wrap .table {
+	
+ border-collapse:separate;
+ border-spacing:10px 4px;
+margin-top: 10px;
+
+}
+
+.context-wrap .table span{
+
+}

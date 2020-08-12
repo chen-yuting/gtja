@@ -1,0 +1,21 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+ 
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+    font-size: 25px;       
+
+}
+
+
+
+.container{
+	margin-top: 55%;
+	color: white;
+	font-weight: bold;
+}

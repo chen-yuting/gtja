@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd
+        http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+	<bean
+		class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+		<!-- @ResponseBody返回JSON数据中文乱码解决,注意,此配置一定要在<mvc:annotation-driven/>配置前面 -->
+		<property name="messageConverters">
+			<list>
+				<bean
+					class="com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter">
+					<property name="supportedMediaTypes">
+						<list>
+							<value>text/html;charset=UTF-8</value>
+							<value>application/json;charset=UTF-8</value>
+						</list>
+					</property>
+				</bean>
+				<bean
+					class="org.springframework.http.converter.StringHttpMessageConverter">
+					<property name="supportedMediaTypes">
+						<list>
+							<value>text/html;charset=UTF-8</value>
+						</list>
+					</property>
+				</bean>
+			</list>
+		</property>
+	</bean>
+	<!--配置文件上传 -->
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<!-- 设置上传文件最大尺寸，单位为B -->
+		<property name="maxUploadSize" value="1000000000" />
+	</bean>
+
+
+	<!-- <mvc:default-servlet-handler/> -->
+	<mvc:annotation-driven></mvc:annotation-driven>
+
+	<!-- 视图解析器 适配器 -->
+	<context:component-scan
+		base-package="mgr"></context:component-scan>
+	<!-- springmvc的配置 -->
+	<!-- 视图解析器 -->
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="prefix" value="/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+	<mvc:default-servlet-handler />
+	<!-- 
+	 -->
+	<mvc:interceptors>
+		<mvc:interceptor>
+			<mvc:mapping path="/mgr/**" />
+			<mvc:exclude-mapping path="/mgr/login.html" />
+			<mvc:exclude-mapping path="/mgr/login.ajax" />
+			<bean class="mgr.web.commons.LoginInterceptor" />
+		</mvc:interceptor>
+	</mvc:interceptors>
+</beans>

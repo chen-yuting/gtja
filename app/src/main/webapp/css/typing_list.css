@@ -1,0 +1,145 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+ 
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+  
+}
+.context{
+	  font-size: 25px;       
+
+}
+
+.context_title{
+	
+	font-weight: bold;
+	
+	font-size: 100%;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:80px;
+	
+}
+.weui-search-bar{
+	
+	
+}
+
+.context-wrap{
+ 
+  top: 13px;
+  width: auto;
+  background: white;
+  margin: 2px;
+}
+
+/**/
+#inputWrap {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ 
+  margin-bottom: 40px;
+  
+ 
+}
+
+#inputWrap .search,.input-wrap{
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+
+#inputWrap .search {
+position: absolute;
+  top: 20%;
+  right:7%;
+  width: 20px;
+  height: 20px;
+  background-size: 100% 100%;
+  background-image: url("../imgs/search.png");
+  border:0px;
+  background-color:transparent;
+ }
+
+#inputWrap .input-wrap {
+	margin-left: 0%;
+  width: calc(100% - 135px);
+  height: calc(100% - 6px);
+}
+
+#inputWrap .input-wrap input {
+	
+	text-align: center;
+	
+  border: 1px solid #ddd;
+  outline: none;
+  display: block;
+ height: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #515151;
+  background: white;
+  padding: 8px;
+  border-radius: 50px;
+}
+
+
+
+.context-wrap .hr{
+	margin: 10px;
+	
+}
+.row:after{
+	clear: both;
+	display: block;
+	content: '';
+	
+}
+
+.context-wrap .title{
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+
+.context-wrap .context{
+	margin-left: 5px;
+	font-size: 50px;
+}
+
+.context-wrap .context a{
+	text-decoration: none;
+}
+
+
+.row{
+	text-align: center;
+}
+.col{
+	font-size: 18px;
+	float: left;
+	width:33.3333333%;
+}
+
+/*查看详情*/
+.refer{
+	border-radius: 40px;
+	border: solid 1px #CCC;
+	background:#FFFFFF;
+	color: #000;
+	font-size: 15px;
+	transform: none;
+   outline: none;
+}
+

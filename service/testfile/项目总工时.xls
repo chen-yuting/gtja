@@ -1,0 +1,2104 @@
+
+
+
+
+<html> 
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+  <head>
+    <meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta http-equiv="description" content="This is my page">
+  </head>
+  
+  <body style="padding:0;">
+    <TABLE border=1  id="checkreport"  style="font-size:9pt;font-family:宋体;table-layout:fixed;" >
+<THEAD>
+<TR>
+    		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" colspan="8" style="height:5%;padding:2px 5px;font-size:10pt;font-weight:bold;">
+    			2018-10-01到2018-10-31项目工作量统计
+  			</TD>
+  		</TR>
+  		<TR>
+  		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">项目归属处室/团队</TD>
+  		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">项目归属小组</TD>
+  		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">项目名称</TD>
+		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">人员名称</TD>
+		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">工作天数</TD>
+		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">归属公司</TD>
+		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">入场时间</TD>
+		<TD style="height:22px;text-align:center;background:#66CCFF;white-space:nowrap;" width="100">标准工时</TD>
+	</TR></THEAD>
+<TBODY>
+<TR id="">
+    	<TD style="null" align="center" class="even" rowspan="3">企业金融营运支持领域研发团队</TD>
+    	<TD style="null" align="center" class="even1" rowspan="3">银证组</TD>
+    	<TD style="null" align="center" rowspan="3">信用卡积分商城系统（2018年滚动开发）</TD>
+    	<TD style="null" align="center">陈闽昌</TD>
+    	<TD style="null" align="center">16.16</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-01-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈必鼎</TD>
+    	<TD style="null" align="center">12.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">李博韬</TD>
+    	<TD style="null" align="center">16.14</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-13</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    	<TD style="null" align="center" class="odd" rowspan="33">移动金融服务领域研发团队</TD>
+    	<TD style="null" align="center" class="odd1" rowspan="7">企金互联网应用小组</TD>
+    	<TD style="null" align="center" rowspan="5">对公智能收付系统2018年滚动开发项目</TD>
+    	<TD style="null" align="center">陈婉瑜</TD>
+    	<TD style="null" align="center">17.2</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2009-03-02</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">朱志锋</TD>
+    	<TD style="null" align="center">18.73</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-29</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">施航</TD>
+    	<TD style="null" align="center">17.84</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-03-16</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">周超凡</TD>
+    	<TD style="null" align="center">16.27</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-04-24</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">邱瑾</TD>
+    	<TD style="null" align="center">10.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-08-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="2">银企网上直联系统项目(滚动)</TD>
+    	<TD style="null" align="center">翁强</TD>
+    	<TD style="null" align="center">14.64</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-13</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林航</TD>
+    	<TD style="null" align="center">16.57</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="even1" rowspan="3">企业移动应用门户小组</TD>
+    	<TD style="null" align="center" rowspan="3">再造手机银行（服务端）项目</TD>
+    	<TD style="null" align="center">徐震洲</TD>
+    	<TD style="null" align="center">18.57</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2012-08-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">曹丽苹</TD>
+    	<TD style="null" align="center">4.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">宗靖人</TD>
+    	<TD style="null" align="center">20.74</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="odd1" rowspan="23">企金互联网应用小组</TD>
+    	<TD style="null" align="center" rowspan="23">企业网银系统</TD>
+    	<TD style="null" align="center">郑燊明</TD>
+    	<TD style="null" align="center">15.52</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2008-04-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈济爱</TD>
+    	<TD style="null" align="center">15.07</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2009-05-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">方传蔚</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-13</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄羲炜</TD>
+    	<TD style="null" align="center">13.47</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-13</TD>
+    	<TD style="null" align="center">16</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">吴凡华</TD>
+    	<TD style="null" align="center">16.18</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张达</TD>
+    	<TD style="null" align="center">15.23</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-04-19</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">刘庭伟</TD>
+    	<TD style="null" align="center">16.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-04-19</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">李俊莉</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-07-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">池良青</TD>
+    	<TD style="null" align="center">14.57</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-07-29</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈雄风</TD>
+    	<TD style="null" align="center">15.08</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-11-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">蔡志鹏</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-19</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄烨</TD>
+    	<TD style="null" align="center">1.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">王美秀</TD>
+    	<TD style="null" align="center">15.35</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-02-13</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张河</TD>
+    	<TD style="null" align="center">13.23</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-02-27</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑华榕</TD>
+    	<TD style="null" align="center">16.73</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-03-07</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">程祖燊</TD>
+    	<TD style="null" align="center">15.34</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-06-05</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林珺</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈海滨</TD>
+    	<TD style="null" align="center">13.75</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-07-19</TD>
+    	<TD style="null" align="center">16</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">池新</TD>
+    	<TD style="null" align="center">15.58</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-07-19</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑华东</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-07-19</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">邱瑾</TD>
+    	<TD style="null" align="center">5.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-08-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杜武凯</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-11-13</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林毕龙</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    	<TD style="null" align="center" class="even" rowspan="114">零售网络金融研发团队</TD>
+    	<TD style="null" align="center" class="even1" rowspan="3">直销银行小组</TD>
+    	<TD style="null" align="center" rowspan="3">直销银行产品功能建设项目(滚动)</TD>
+    	<TD style="null" align="center">陈绪炳</TD>
+    	<TD style="null" align="center">0.28</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2013-09-22</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">徐林俊</TD>
+    	<TD style="null" align="center">0.43</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-13</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄泽滨</TD>
+    	<TD style="null" align="center">0.43</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="odd1" rowspan="17">个人网银小组</TD>
+    	<TD style="null" align="center" rowspan="7">网络支付清算系统二期项目</TD>
+    	<TD style="null" align="center">高秉霖</TD>
+    	<TD style="null" align="center">10.01</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-05-20</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林畅</TD>
+    	<TD style="null" align="center">16.92</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">伊晓东</TD>
+    	<TD style="null" align="center">22.26</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">邵长桂</TD>
+    	<TD style="null" align="center">19.91</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-08-16</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈真</TD>
+    	<TD style="null" align="center">18.34</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杨华斌</TD>
+    	<TD style="null" align="center">17.87</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">谢艳敏</TD>
+    	<TD style="null" align="center">18.11</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="7">网上银行改版项目(滚动)</TD>
+    	<TD style="null" align="center">吴贵铜</TD>
+    	<TD style="null" align="center">3.5</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-11-28</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">刘伟</TD>
+    	<TD style="null" align="center">0.73</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-08</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杨康</TD>
+    	<TD style="null" align="center">3.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-06-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">王君</TD>
+    	<TD style="null" align="center">2.43</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-09-08</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">颜国杭</TD>
+    	<TD style="null" align="center">3.39</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-08-16</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">周凌聪</TD>
+    	<TD style="null" align="center">3.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-30</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张翠青</TD>
+    	<TD style="null" align="center">0.81</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-07-11</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="3">网上支付系统升级项目(滚动)</TD>
+    	<TD style="null" align="center">杨耀华</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-11-09</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">吴超</TD>
+    	<TD style="null" align="center">14.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张晓廷</TD>
+    	<TD style="null" align="center">19.72</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-09-15</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="even1" rowspan="65">手机银行小组</TD>
+    	<TD style="null" align="center" rowspan="4">微信银行项目</TD>
+    	<TD style="null" align="center">徐震洲</TD>
+    	<TD style="null" align="center">1.52</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2012-08-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">王斌</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-06-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">薛怀杰</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-10-09</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">傅少锋</TD>
+    	<TD style="null" align="center">16.57</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-10-09</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="61">再造手机银行（客户端）项目</TD>
+    	<TD style="null" align="center">章招兴</TD>
+    	<TD style="null" align="center">18.01</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2003-01-01</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">李智勇</TD>
+    	<TD style="null" align="center">20.35</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2009-03-02</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">傅后鹏</TD>
+    	<TD style="null" align="center">20.48</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-08-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄林</TD>
+    	<TD style="null" align="center">19.98</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-08-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄恺</TD>
+    	<TD style="null" align="center">18.34</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-08-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">王超冉</TD>
+    	<TD style="null" align="center">19.97</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">沈聪维</TD>
+    	<TD style="null" align="center">21.85</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-02-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">阙汉伟</TD>
+    	<TD style="null" align="center">18.1</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-05-26</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">吴贵铜</TD>
+    	<TD style="null" align="center">0.73</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-11-28</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">王美停</TD>
+    	<TD style="null" align="center">23.51</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-06-16</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">叶天明</TD>
+    	<TD style="null" align="center">11.91</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-11-17</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">廖海容</TD>
+    	<TD style="null" align="center">21.53</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-29</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杨志强</TD>
+    	<TD style="null" align="center">21.77</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-02-03</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">吴诚</TD>
+    	<TD style="null" align="center">20.95</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-09-15</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">谢伟杰</TD>
+    	<TD style="null" align="center">15.78</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-04-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄健</TD>
+    	<TD style="null" align="center">21.3</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-04-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">连孝飞</TD>
+    	<TD style="null" align="center">21.06</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-04-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈炜枫</TD>
+    	<TD style="null" align="center">18.98</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-04-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林键</TD>
+    	<TD style="null" align="center">19.12</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-04-23</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">曾通宝</TD>
+    	<TD style="null" align="center">21.25</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-05-21</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">唐晨</TD>
+    	<TD style="null" align="center">20.39</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-05-21</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈世杰</TD>
+    	<TD style="null" align="center">21.16</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-05-21</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈春喆</TD>
+    	<TD style="null" align="center">18.61</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-05-21</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">李文超</TD>
+    	<TD style="null" align="center">22.19</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-05-21</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">宋晨</TD>
+    	<TD style="null" align="center">21.77</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">任民松</TD>
+    	<TD style="null" align="center">23.39</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">刘克楠</TD>
+    	<TD style="null" align="center">21.72</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">周慈航</TD>
+    	<TD style="null" align="center">20.88</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">朱永涛</TD>
+    	<TD style="null" align="center">21.74</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">马鑫山</TD>
+    	<TD style="null" align="center">21.76</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">占陈辉</TD>
+    	<TD style="null" align="center">20.78</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑梦温</TD>
+    	<TD style="null" align="center">21.83</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">许东福</TD>
+    	<TD style="null" align="center">17.88</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">龚思晗</TD>
+    	<TD style="null" align="center">21.77</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈琳珑</TD>
+    	<TD style="null" align="center">20.56</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">冯娟</TD>
+    	<TD style="null" align="center">21.24</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">魏强</TD>
+    	<TD style="null" align="center">17.53</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈圣凯</TD>
+    	<TD style="null" align="center">21.35</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">范斯达</TD>
+    	<TD style="null" align="center">20.3</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林炜</TD>
+    	<TD style="null" align="center">19.91</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">江伟喆</TD>
+    	<TD style="null" align="center">21.14</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">池如海</TD>
+    	<TD style="null" align="center">20.76</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">耿星烨</TD>
+    	<TD style="null" align="center">25.8</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">宋运泽</TD>
+    	<TD style="null" align="center">1.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">邓高明</TD>
+    	<TD style="null" align="center">17.84</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">李超</TD>
+    	<TD style="null" align="center">20.29</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">刘翠平</TD>
+    	<TD style="null" align="center">22.42</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-06</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈智炜</TD>
+    	<TD style="null" align="center">19.78</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">叶万生</TD>
+    	<TD style="null" align="center">21.76</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">唐金辉</TD>
+    	<TD style="null" align="center">20.86</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">蔡黎楠</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-06-27</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">周升升</TD>
+    	<TD style="null" align="center">21.66</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-20</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">庄超淅</TD>
+    	<TD style="null" align="center">21.68</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-20</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄勇彬</TD>
+    	<TD style="null" align="center">21.68</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-07-20</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">江懿</TD>
+    	<TD style="null" align="center">14.35</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">赵辉锦</TD>
+    	<TD style="null" align="center">3.13</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杨杰</TD>
+    	<TD style="null" align="center">19.04</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">叶圣功</TD>
+    	<TD style="null" align="center">21.31</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张华垠</TD>
+    	<TD style="null" align="center">20.65</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林剑亮</TD>
+    	<TD style="null" align="center">20.48</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-09-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑蔚珺</TD>
+    	<TD style="null" align="center">1.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-10-15</TD>
+    	<TD style="null" align="center">13</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="odd1" rowspan="18">直销银行小组</TD>
+    	<TD style="null" align="center" rowspan="8">互联网统一认证系统迭代开发(滚动)</TD>
+    	<TD style="null" align="center">陈仁华</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-05-26</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">潘亦波</TD>
+    	<TD style="null" align="center">14.85</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-04-13</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑招兴</TD>
+    	<TD style="null" align="center">3.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-07-23</TD>
+    	<TD style="null" align="center">1</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">蔡万辉</TD>
+    	<TD style="null" align="center">17.07</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">杜武汉</TD>
+    	<TD style="null" align="center">16.47</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-25</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张伟</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-29</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郑永坚</TD>
+    	<TD style="null" align="center">13.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-12-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈俊秀</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-03-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">互联网营销系统滚动开发项目</TD>
+    	<TD style="null" align="center">张善锋</TD>
+    	<TD style="null" align="center">0.56</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-26</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="3">跨行支付平台功能优化和升级项目(滚动)</TD>
+    	<TD style="null" align="center">陈学威</TD>
+    	<TD style="null" align="center">0.5</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2012-07-12</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈娟</TD>
+    	<TD style="null" align="center">0.71</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-10-08</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陆潇</TD>
+    	<TD style="null" align="center">0.71</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-29</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">网银主页系统滚动开发项目</TD>
+    	<TD style="null" align="center">张善锋</TD>
+    	<TD style="null" align="center">8.57</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-26</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" rowspan="5">线上线下系统维护项目(滚动)</TD>
+    	<TD style="null" align="center">蔡丛桢</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-11-10</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">林晨</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-05-04</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张善锋</TD>
+    	<TD style="null" align="center">7.86</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-08-26</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郭文娟</TD>
+    	<TD style="null" align="center">13.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-02-24</TD>
+    	<TD style="null" align="center">16</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">兰智敏</TD>
+    	<TD style="null" align="center">17.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="even1" rowspan="7">个人网银小组</TD>
+    	<TD style="null" align="center" rowspan="7">集团门户（2018）专项工作</TD>
+    	<TD style="null" align="center">张湛</TD>
+    	<TD style="null" align="center">3.52</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-07-14</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郭佳鸣</TD>
+    	<TD style="null" align="center">3.14</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2014-09-25</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈源</TD>
+    	<TD style="null" align="center">3.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-10-09</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄行逵</TD>
+    	<TD style="null" align="center">3.56</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-04-05</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">张翠青</TD>
+    	<TD style="null" align="center">3.44</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-07-11</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">丁国润</TD>
+    	<TD style="null" align="center">3.41</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-02</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">黄梅兰</TD>
+    	<TD style="null" align="center">1.24</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-03-15</TD>
+    	<TD style="null" align="center">16</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center" class="odd1" rowspan="4">直销银行小组</TD>
+    	<TD style="null" align="center" rowspan="4">银联扫码付系统</TD>
+    	<TD style="null" align="center">叶成群</TD>
+    	<TD style="null" align="center">15.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2015-11-17</TD>
+    	<TD style="null" align="center">18</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">肖永灯</TD>
+    	<TD style="null" align="center">14.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2016-09-29</TD>
+    	<TD style="null" align="center">17</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">郭文娟</TD>
+    	<TD style="null" align="center">4.01</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2017-02-24</TD>
+    	<TD style="null" align="center">16</TD>
+    	</TR>
+    
+    	<TR id="">
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    </TBODY>
+<TBODY>
+    	<TD style="null" align="center">陈成立</TD>
+    	<TD style="null" align="center">12.0</TD>
+    	<TD style="null" align="center">新大陆</TD>
+    	<TD style="null" align="center">2018-10-11</TD>
+    	<TD style="null" align="center">15</TD>
+    	</TR></TBODY>
+</TABLE>
+
+  </body>
+</html>

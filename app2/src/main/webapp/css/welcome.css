@@ -1,0 +1,63 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg.jpg) no-repeat;
+	background-size: 100% auto;
+    overflow-y: scroll;
+    overflow-x: hidden;   
+
+}
+.container{
+	font-family: "微软雅黑";
+	margin-top: 10%;
+	
+}
+.header-title{
+  font-weight:bolder;
+  font-size: 28px;
+  color: #FFFDEF;
+  margin-top: 30%;
+  margin-left: 13%;
+ 
+}
+.header-title .row-one{
+	margin-bottom: -2px;
+   margin-left: 25%;
+}
+.header-title .row-two{
+   
+}
+.content-wrap{
+	
+	margin-top: 15%;
+}
+
+.content-wrap .up-wrap {
+  margin-left:10% ;
+	padding-bottom: 5%;
+}
+
+.content-wrap .down-wrap {
+	 margin-left:10% ;
+	
+}
+.content-wrap .up-wrap a{
+	border: solid 1.5px #FFF6D9;
+	background: #33A0FF;
+		width: 90%;
+}
+
+.content-wrap .down-wrap a{
+	border: solid 1px #FFF6D9;
+	background: #3090FF ;
+		width: 90%;
+}
+
+.content-wrap a{
+	border-radius: 50px;
+	
+}

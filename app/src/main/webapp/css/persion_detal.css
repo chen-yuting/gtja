@@ -1,0 +1,73 @@
+#main{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/*header*/
+body{
+	background:url(../imgs/bg01.png) no-repeat;
+	background-size: 100% auto;
+    font-size: 25px;  
+    overflow-y: scroll;
+  overflow-x: hidden;     
+}
+
+.header-wrap{
+	
+	 font-size: 25px;
+   color: #FFFDEF;
+	
+}
+.header-wrap  .header-left{
+	padding-right: 0px;
+	margin-top:4% ;
+	
+}
+.header-wrap  .header-right{
+	margin-top:9% ;
+}
+
+.header-wrap  .header-right >span{
+	
+	font-weight:bolder;
+	padding: -30px;
+}
+
+.header-wrap .title-down{
+   font-weight: bolder;
+	font-size: 14px;
+}
+
+.content-wrap{
+	background: white;
+}
+
+.content-wrap .table{
+	background: white;
+	font-size: 40%;
+}
+.context-wrap1{
+	font-size: 14px;
+  padding-top: 3%;
+  padding-left: 5px;
+  color: #FFFDEF;
+  font-weight:bolder;
+}
+
+.left {
+  float: left;
+  padding-left: 35px;
+ }
+ .right{
+   float: right;
+   padding-right: 35px;
+   text-align: left;
+ }
+
+.clear{
+	clear: both;
+}
+.renwu{
+	padding-left: 2px;
+	font-weight:bolder;
+}
